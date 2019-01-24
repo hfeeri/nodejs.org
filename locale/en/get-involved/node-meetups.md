@@ -54,3 +54,15 @@ REQUIREMENTS
 - How to submit a talk? DM @obensource on twitter
 - Organizer name - Ben Michel
 - Organizer contact info - [@obensource](https://www.twitter.com/obensource/)
+
+### Europe
+
+#### Hungary
+
+- [Meetup](https://www.meetup.com/nodebp/)
+- Frequency of meetups - quarterly
+- How to submit a talk? Email ferenc.hamori@risingstack.com
+- Organizer name - Ferenc Hamori
+- Organizer contact info - ferenc.hamori@risingstack.com
+
+
